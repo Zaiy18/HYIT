@@ -1,0 +1,2332 @@
+[ 2015-05-15T19:08:53+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001347s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001488s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022864s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001124s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001052s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001195s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001197s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004898s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001408s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001506s ]
+
+[ 2015-05-15T19:08:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001254s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001393s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000580s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000656s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+ERR: Action:post您所请求的方法不存在！
+
+[ 2015-05-15T19:12:44+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004388s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026108s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026347s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001814s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001816s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002477s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002663s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009355s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002303s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002462s ]
+
+[ 2015-05-15T19:12:51+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001591s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001689s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001371s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+ERR: Action:post您所请求的方法不存在！
+
+[ 2015-05-15T19:14:30+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001215s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010424s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010542s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001493s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000990s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000930s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001074s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004688s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001141s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001203s ]
+
+[ 2015-05-15T19:14:33+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001604s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001713s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001344s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+ERR: Action:post您所请求的方法不存在！
+
+[ 2015-05-15T19:16:03+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001378s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011043s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011164s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000718s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000644s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000579s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000718s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002858s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000866s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000927s ]
+
+[ 2015-05-15T19:16:05+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001253s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001359s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001348s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+ERR: Action:eroor您所请求的方法不存在！
+
+[ 2015-05-15T19:16:17+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001428s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001548s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011056s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011157s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001290s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001089s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000806s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001162s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004545s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001375s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001442s ]
+
+[ 2015-05-15T19:16:18+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001315s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001423s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010832s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010939s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001243s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001087s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000848s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001839s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005235s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001352s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001430s ]
+
+[ 2015-05-15T19:16:18+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001813s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010493s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010594s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001434s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001251s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000811s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001190s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004898s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001327s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001397s ]
+
+[ 2015-05-15T19:16:20+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001553s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001650s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001449s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001541s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+ERR: Action:eroor您所请求的方法不存在！
+
+[ 2015-05-15T19:16:57+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000959s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001059s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010815s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010926s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001050s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001041s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001265s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004485s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001037s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001108s ]
+
+[ 2015-05-15T19:16:57+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000592s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000709s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008794s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008893s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000362s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000357s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000241s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000426s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001574s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000719s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000809s ]
+
+[ 2015-05-15T19:16:58+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000525s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000616s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008910s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009051s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000407s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000371s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000240s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001638s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000571s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000637s ]
+
+[ 2015-05-15T19:16:58+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001419s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012051s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012210s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001144s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001165s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000979s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001191s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004687s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001317s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001387s ]
+
+[ 2015-05-15T19:17:00+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001562s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001667s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001334s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.080802s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.080983s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002399s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002726s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002288s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002540s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010438s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002827s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002977s ]
+
+[ 2015-05-15T19:17:03+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002738s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002929s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025651s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002471s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002337s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001723s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002525s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009475s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003017s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003175s ]
+
+[ 2015-05-15T19:17:20+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001690s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001797s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001356s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001431s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011261s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001105s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001606s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000850s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001165s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004941s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001332s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001404s ]
+
+[ 2015-05-15T19:17:23+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003120s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003360s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023080s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001399s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001214s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000816s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001247s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004902s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001722s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001887s ]
+
+[ 2015-05-15T19:19:17+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004423s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031945s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002671s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002586s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002175s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002953s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010891s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003571s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003732s ]
+
+[ 2015-05-15T19:19:24+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001460s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001609s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000918s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000994s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012307s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012450s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000862s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000836s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000646s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001109s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003682s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001120s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001203s ]
+
+[ 2015-05-15T19:19:27+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000916s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012330s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012451s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000453s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000445s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000317s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000576s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002026s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000762s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000848s ]
+
+[ 2015-05-15T19:21:45+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001553s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001656s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001243s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013085s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013195s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001153s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001088s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000981s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001154s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004574s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001305s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001375s ]
+
+[ 2015-05-15T19:21:48+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004426s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004681s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030600s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030799s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002466s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002537s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002208s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.003733s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011442s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004870s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005092s ]
+
+[ 2015-05-15T19:21:50+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001392s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001491s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001258s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011457s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011560s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000997s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000945s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000847s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001001s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003965s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001129s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001192s ]
+
+[ 2015-05-15T19:21:53+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002981s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030456s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030675s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002673s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002811s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002613s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010980s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003158s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003347s ]
+
+[ 2015-05-15T19:22:00+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001404s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001520s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001360s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001441s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011065s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011171s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000810s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000773s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000584s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000781s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003139s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000836s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000897s ]
+
+[ 2015-05-15T19:22:03+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002840s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003034s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025080s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025298s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001434s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001232s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000966s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001378s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005450s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002436s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002616s ]
+
+[ 2015-05-15T19:23:43+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000877s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000980s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001292s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001363s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010508s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000569s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000558s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000520s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000680s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002571s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000804s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000873s ]
+
+[ 2015-05-15T19:23:47+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003069s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003311s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022134s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001240s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001346s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001357s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002057s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006504s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001884s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002123s ]
+
+[ 2015-05-15T19:24:25+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001114s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001200s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014677s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014771s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001019s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000968s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001111s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001758s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005148s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001296s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001361s ]
+
+[ 2015-05-15T19:24:44+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001564s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001669s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001267s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001340s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: [8] Undefined variable: student E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 27 行.
+
+[ 2015-05-15T19:25:54+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001552s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001670s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001382s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001460s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011687s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011818s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001471s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001159s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001030s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001686s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005693s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001473s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001565s ]
+
+[ 2015-05-15T19:25:57+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003263s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003459s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021340s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021562s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001603s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002335s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001426s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001580s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007235s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:49) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001857s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001956s ]
+
+[ 2015-05-15T19:27:56+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002098s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002268s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017860s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018001s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002681s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001602s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001342s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001592s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007515s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001998s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002096s ]
+
+[ 2015-05-15T19:27:58+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001538s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001638s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001478s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004116s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `student` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000342s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `student` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012483s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012592s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001164s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001115s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001018s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001169s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004667s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001301s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001372s ]
+
+[ 2015-05-15T19:28:01+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003073s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027770s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028008s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002555s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002422s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002803s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002640s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010877s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002923s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003148s ]
+
+[ 2015-05-15T19:28:16+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001387s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001518s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001303s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001381s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004395s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `student` = '1' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000341s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `student` = '1' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011681s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011819s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000847s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001066s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000728s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000814s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003720s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001052s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001137s ]
+
+[ 2015-05-15T19:28:19+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002803s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002996s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.023700s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.023895s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001439s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001306s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001036s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001383s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005639s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001854s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002022s ]
+
+[ 2015-05-15T19:29:10+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003407s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003622s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.027448s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.027648s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002585s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002485s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002122s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004236s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012030s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004037s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004296s ]
+
+[ 2015-05-15T19:29:15+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000860s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001007s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001433s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001521s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004353s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `StuNO` = '1' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000345s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `StuNO` = '1' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009415s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009521s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000579s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000842s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000689s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000907s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003289s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000933s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001015s ]
+
+[ 2015-05-15T19:29:19+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004191s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004431s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022254s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022449s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001274s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001388s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000989s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001363s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005434s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001768s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001928s ]
+
+[ 2015-05-15T19:30:39+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003183s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003419s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026465s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026741s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001686s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001587s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001813s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002672s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008268s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002351s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002523s ]
+
+[ 2015-05-15T19:30:40+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001225s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001326s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001330s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001406s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004389s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '1' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000341s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `StuName` = '1' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009645s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009756s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000561s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000564s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000442s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002391s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001016s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001096s ]
+
+[ 2015-05-15T19:30:45+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001883s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002016s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013560s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013697s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000810s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000748s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000599s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000854s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003268s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001064s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001157s ]
+
+[ 2015-05-15T19:37:06+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001179s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001280s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013153s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013265s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002188s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001146s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000872s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001012s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005458s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001379s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001465s ]
+
+[ 2015-05-15T19:37:34+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001545s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001646s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001317s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: [2] mysql_connect() [<a href='function.mysql-connect'>function.mysql-connect</a>]: Can't connect to MySQL server on '127.0.0.1' (10060) E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\Db\DbMysql.class.php 第 55 行.
+ERR: Can't connect to MySQL server on '127.0.0.1' (10060)
+
+[ 2015-05-15T19:37:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001660s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001783s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001269s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001341s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+
+[ 2015-05-15T19:37:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001417s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001544s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001391s ]
+
+[ 2015-05-15T19:37:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001209s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001311s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000984s ]
+
+[ 2015-05-15T19:37:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001578s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001678s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001566s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001671s ]
+
+[ 2015-05-15T19:37:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001593s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001695s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001251s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001326s ]
+
+[ 2015-05-15T19:37:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001531s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001655s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000975s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001068s ]
+
+[ 2015-05-15T19:37:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001565s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001666s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001457s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.009515s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000647s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026281s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026500s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002582s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002429s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002122s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002627s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010229s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004620s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004955s ]
+
+[ 2015-05-15T19:37:59+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001790s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015898s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016056s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002340s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001847s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001353s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001687s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007738s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002021s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002126s ]
+
+[ 2015-05-15T19:38:45+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001571s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001703s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001727s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004448s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000272s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017918s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018039s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001568s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001189s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001066s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001493s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005545s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001424s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001499s ]
+
+[ 2015-05-15T19:38:48+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002046s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002242s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.022347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022486s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001942s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002306s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001630s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002251s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008522s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002265s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002409s ]
+
+[ 2015-05-15T19:38:52+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001559s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001662s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004068s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000346s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011728s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011835s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001152s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001128s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000995s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001484s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004980s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001372s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001442s ]
+
+[ 2015-05-15T19:40:15+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.005865s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006221s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.035014s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.035247s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002578s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002637s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002334s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002870s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010909s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003633s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003809s ]
+
+[ 2015-05-15T19:40:19+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001575s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001675s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001765s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001892s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004897s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000349s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011537s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011698s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001425s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001105s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000985s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001213s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004950s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001325s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001393s ]
+
+[ 2015-05-15T19:40:22+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002777s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002972s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.031192s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031385s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002454s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002418s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.004297s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004107s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013840s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002926s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003080s ]
+
+[ 2015-05-15T19:41:40+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001933s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017195s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017324s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001605s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001654s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001448s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001623s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006657s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002526s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002641s ]
+
+[ 2015-05-15T19:41:41+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001952s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002145s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.040410s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.040697s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001987s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001810s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002727s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002367s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009515s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002945s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003164s ]
+
+[ 2015-05-15T19:41:47+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001636s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001739s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001254s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001329s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004339s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000337s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012262s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001148s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001095s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000988s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004705s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001632s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001721s ]
+
+[ 2015-05-15T19:41:50+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002795s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002991s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030813s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031009s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002435s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.003757s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.003366s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002801s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012891s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003055s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003222s ]
+
+[ 2015-05-15T19:41:56+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001310s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001412s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000578s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000660s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004803s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `think_student`
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.000345s ]
+ERR: 1146:Table 'wangshangxuanke.think_student' doesn't exist
+ [ SQL语句 ] : SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1  
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.008573s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008681s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000350s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000377s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000234s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000425s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001571s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000564s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000633s ]
+
+[ 2015-05-15T19:41:59+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001429s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020636s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020936s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000940s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000944s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000682s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001082s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004222s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001276s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001419s ]
+
+[ 2015-05-15T19:45:06+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001151s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001253s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012245s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012366s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001581s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001557s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001419s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001671s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006509s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001899s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002018s ]
+
+[ 2015-05-15T19:45:08+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002465s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002628s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001890s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002017s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004197s ]
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.046910s ]
+NOTIC: [8] Undefined index:  StuNo E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 34 行.
+NOTIC: [8] Undefined index:  student E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 36 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010660s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010768s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001045s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001489s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001128s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001361s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005282s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001621s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001726s ]
+
+[ 2015-05-15T19:45:09+08:00 ] 127.0.0.1 /Webphp/index.php/Student/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001862s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001989s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001500s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001596s ]
+ERR: 模板不存在[./App/Tpl/Student/index.html]
+
+[ 2015-05-15T19:56:12+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003620s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.030967s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031208s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.003206s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002411s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002177s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004466s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013197s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:50) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003826s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004010s ]
+
+[ 2015-05-15T20:33:01+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001109s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001201s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014864s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014969s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001006s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000937s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000841s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001011s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003970s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001135s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001196s ]
+
+[ 2015-05-15T20:33:28+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002348s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002495s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002383s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002513s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+
+[ 2015-05-15T20:35:04+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003518s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003775s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028633s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028844s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.004046s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002608s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002213s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002512s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011840s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003073s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003234s ]
+
+[ 2015-05-15T20:35:11+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001197s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001294s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001290s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+
+[ 2015-05-15T20:35:21+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000826s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000925s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001296s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001370s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+
+[ 2015-05-15T20:39:27+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001741s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001873s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017697s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017833s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002038s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001521s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001918s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001822s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007639s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002109s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002231s ]
+
+[ 2015-05-15T20:39:42+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001204s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001305s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001256s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001330s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+
+[ 2015-05-15T20:41:41+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001133s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001225s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009900s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010000s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000748s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000639s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000549s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000744s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002851s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:66) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000941s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001000s ]
+
+[ 2015-05-15T20:41:44+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001203s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001301s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001297s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001371s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+
+[ 2015-05-15T20:44:21+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001153s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001248s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010849s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000852s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000675s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000554s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000710s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002976s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000839s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2015-05-15T20:44:23+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001335s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001441s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001399s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004269s ]
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '赵启卫' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.007203s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009589s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000691s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000960s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000477s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000705s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003062s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000820s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000889s ]
+
+[ 2015-05-15T20:44:26+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002879s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003071s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014207s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014362s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000779s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000724s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000573s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000818s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003139s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001012s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001100s ]
+
+[ 2015-05-15T20:44:57+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000840s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000941s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001359s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: [8] Undefined variable: teacher E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 47 行.
+
+[ 2015-05-15T20:45:03+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002976s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003216s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021666s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021896s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001463s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001125s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000898s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001282s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005195s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:70) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001999s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002195s ]
+
+[ 2015-05-15T20:45:13+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000815s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000914s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001357s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: [8] Undefined variable: teacher E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 47 行.
+
+[ 2015-05-15T20:47:41+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003067s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003329s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026129s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026398s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002153s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002137s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001423s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001798s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008772s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002275s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002438s ]
+
+[ 2015-05-15T20:47:45+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001206s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001307s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001293s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001366s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: [8] Undefined variable: teacher E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 48 行.
+
+[ 2015-05-15T20:49:19+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001306s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001405s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009679s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009790s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000648s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000571s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000443s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000756s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002618s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000867s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000955s ]
+
+[ 2015-05-15T20:49:29+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002760s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002971s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029834s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.030062s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002615s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.004025s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002477s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002565s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.012149s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002848s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003003s ]
+
+[ 2015-05-15T20:49:32+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001663s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001790s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001501s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001609s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+
+[ 2015-05-15T20:50:20+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001334s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001435s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014489s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014619s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001252s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001089s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000983s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001152s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004689s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001309s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001378s ]
+
+[ 2015-05-15T20:50:21+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002809s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003004s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024277s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024474s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002491s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002512s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002295s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002804s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010631s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002974s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003130s ]
+
+[ 2015-05-15T20:50:22+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003186s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003445s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.028144s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028351s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002919s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002549s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002187s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002654s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010772s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003779s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003950s ]
+
+[ 2015-05-15T20:50:22+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001695s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001817s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014408s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014536s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001581s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001406s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001038s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001506s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005796s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001699s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001791s ]
+
+[ 2015-05-15T20:50:24+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001548s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001651s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001262s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001337s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.004655s ]
+SQL: SELECT * FROM `think_teacher` WHERE ( `TeaName` = '赵启卫' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.028392s ]
+NOTIC: [8] Undefined index:  TeaNo E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 55 行.
+NOTIC: [8] Undefined index:  teacher E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 57 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.019781s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020006s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002473s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002641s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001852s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002653s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.010094s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.004236s ]
+INFO: [ view_end ] --END-- [ RunTime:0.004405s ]
+
+[ 2015-05-15T20:50:25+08:00 ] 127.0.0.1 /Webphp/index.php/Teacher/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004448s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004665s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002789s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002957s ]
+ERR: 无法加载模块:Teacher
+
+[ 2015-05-15T20:55:27+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004606s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004885s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.024392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024570s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001798s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001767s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002420s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001871s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.008194s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002049s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002211s ]
+
+[ 2015-05-15T20:55:31+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001550s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001645s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001739s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001841s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004066s ]
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.005646s ]
+NOTIC: [8] Undefined index:  StuNo E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 34 行.
+NOTIC: [8] Undefined index:  student E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 36 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009184s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009296s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000965s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000968s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000693s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000993s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003794s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001166s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001228s ]
+
+[ 2015-05-15T20:55:32+08:00 ] 127.0.0.1 /Webphp/index.php/Student/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.004090s ]
+INFO: [ route_check ] --END-- [ RunTime:0.004328s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003024s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003202s ]
+ERR: 模板不存在[./App/Tpl/Student/index.html]
+
+[ 2015-05-15T20:56:10+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002826s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003028s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026508s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026758s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002446s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005196s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002653s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.004007s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.014867s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002972s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003134s ]
+
+[ 2015-05-15T20:56:12+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001693s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001800s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001319s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001393s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.003606s ]
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.005610s ]
+NOTIC: [8] Undefined index:  StuNo E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 34 行.
+NOTIC: [8] Undefined index:  student E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 36 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009142s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009242s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000953s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001186s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000703s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001026s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004065s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001511s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001589s ]
+
+[ 2015-05-15T20:56:13+08:00 ] 127.0.0.1 /Webphp/index.php/Student/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003353s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003553s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002984s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003218s ]
+ERR: 模板不存在[./App/Tpl/Student/index.html]
+
+[ 2015-05-15T20:56:55+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001207s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001306s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001406s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001499s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004500s ]
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.006269s ]
+NOTIC: [8] Undefined index:  StuNo E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 34 行.
+NOTIC: [8] Undefined index:  student E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 36 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009684s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009795s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000911s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000697s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000598s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000764s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003186s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000893s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000984s ]
+
+[ 2015-05-15T20:56:56+08:00 ] 127.0.0.1 /Webphp/index.php/Student.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001773s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001970s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.004579s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004850s ]
+ERR: 模板不存在[./App/Tpl/Student/index.html]
+
+[ 2015-05-15T20:58:51+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003498s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003777s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.025033s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025237s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001378s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001307s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001004s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001380s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005492s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001681s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001827s ]
+
+[ 2015-05-15T20:58:54+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000872s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000974s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001374s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001450s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004262s ]
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.006530s ]
+NOTIC: [8] Undefined index:  StuNo E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 34 行.
+NOTIC: [8] Undefined index:  student E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 36 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.042263s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042390s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000589s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000565s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000436s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000636s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002423s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000816s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000930s ]
+
+[ 2015-05-15T20:58:55+08:00 ] 127.0.0.1 /Webphp/index.php/Student.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.003085s ]
+INFO: [ route_check ] --END-- [ RunTime:0.003325s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.003880s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004065s ]
+ERR: 模板不存在[./App/Tpl/Student/index.html]
+
+[ 2015-05-15T21:00:52+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001187s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001297s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010166s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010261s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000943s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000713s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000589s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000717s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003138s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000961s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001022s ]
+
+[ 2015-05-15T21:00:54+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001215s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001314s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001272s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004239s ]
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.006801s ]
+NOTIC: [8] Undefined index:  StuNo E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 34 行.
+NOTIC: [8] Undefined index:  student E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 36 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009870s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009985s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000555s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000575s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000436s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000637s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002396s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000859s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000928s ]
+
+[ 2015-05-15T21:00:55+08:00 ] 127.0.0.1 /Webphp/index.php/Student.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001483s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001667s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001694s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001797s ]
+ERR: 模板不存在[./App/Tpl/Student/index.html]
+
+[ 2015-05-15T21:04:17+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001511s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001766s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 E:\Appserv\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.010304s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.010417s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000790s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000815s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000616s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000860s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003313s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001017s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001086s ]
+
+[ 2015-05-15T21:04:19+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001258s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001359s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001346s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_student` [ RunTime:0.004247s ]
+SQL: SELECT * FROM `think_student` WHERE ( `StuName` = '卢帆' ) AND ( `Pwd` = '123456' ) LIMIT 1   [ RunTime:0.006311s ]
+NOTIC: [8] Undefined index:  StuNo E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 34 行.
+NOTIC: [8] Undefined index:  student E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php 第 36 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.009570s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009684s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000564s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000553s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000438s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000616s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002368s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at E:\Appserv\www\Webphp\App\Lib\Action\IndexAction.class.php:71) E:\Appserv\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000774s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000841s ]
+
+[ 2015-05-15T21:04:20+08:00 ] 127.0.0.1 /Webphp/index.php/Student.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001909s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002107s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002815s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002973s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026331s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026557s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001182s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001221s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000939s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001352s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005104s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002053s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002226s ]
+

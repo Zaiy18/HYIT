@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1547277115 source:d:\c++Á´½Ósqlsever\´úÂë\connect\main.cpp
+	<iostream>
+	<windows.h>
+	<sqlext.h>
+

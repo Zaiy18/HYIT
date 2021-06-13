@@ -1,0 +1,3 @@
+﻿  clientDemo.cpp
+c:\users\lemonade\desktop\计算机网络\socketdemo\clientdemo\clientdemo\clientdemo.cpp(23): warning C4101: “RecvBuff”: 未引用的局部变量
+  clientDemo.vcxproj -> C:\Users\Lemonade\Desktop\计算机网络\socketDemo\Debug\clientDemo.exe

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1547280927 source:d:\c++Á´½Ósqlsever\´úÂë\insert\main.cpp
+	<iostream>
+	<windows.h>
+	<sqlext.h>
+	<stdio.h>
+	<math.h>
+	<string>
+

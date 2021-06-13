@@ -1,0 +1,14 @@
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\bin\Debug\DAL.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\bin\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\obj\Debug\DAL.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\obj\Debug\DAL.pdb
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\bin\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\bin\Debug\DAL.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\bin\Debug\Model.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\bin\Debug\Model.pdb
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\obj\Debug\DAL.dll
+C:\Documents and Settings\Administrator\桌面\学生信息选课成绩管理系统\学生信息选课成绩管理系统\ResultsManage\DAL\obj\Debug\DAL.pdb

@@ -1,0 +1,12 @@
+file = open('yzy.txt', 'r', encoding='utf-8')
+print(file.read())
+file.close()
+#print()
+print()
+
+file = open('yzy.txt', 'r', encoding='utf-8')
+print(file.readline())
+print(file.readline())
+print(file.readline())
+#print(file.readline())
+file.close()

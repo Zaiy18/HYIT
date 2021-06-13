@@ -1,0 +1,51 @@
+
+body{
+	font:normal 90%  sans-serif}
+a{color:#FFF;}
+h3{
+	margin:0px; margin-bottom:10px;}
+
+#outside {
+margin:auto; width:1200px;border:solid 1px #cccccc;}
+#outside #permlink {
+
+margin:0px; padding:10px; text-align:right; border:#ffffff solid 1px;}
+
+#outside #permlink a {
+	margin-left:5px; margin-right:}
+#outside #header {
+border:solid 1px #ffffff;}
+#header h1{ padding:0px; text-align:center;}
+#topnav { margin-bottom:10px; padding:5px; border:solid 1px; #ffffff;}
+#topnav a{ padding:3px;}
+#left{ float:left; width:160px; border:solid 1px #ffffff;}
+#middle{ margin-left:160px; margin-right:0px; border: solid 1px #ffffff;}
+#right{ float:left; width:184px; border:solid #ffffff 1px;}
+#footer{ clear:both; text-align:left; border:solid 1px #ffffff;}
+#footer h5{ margin:0; }
+.box{ width:92%; margin:auto; margin-bottom:10px; padding:5px; border:solid 1px #ffffff;}
+body{ background-color:#d1d1d1;}
+h3{ color:#5a6156; padding-bottom:3px; border-bottom:solid 2px #cccccc;}
+h5{ padding-left:5px; color:#5a6156;}
+#outside{ background:#d5ddcd; border: solid 1px #aaaaaa;}
+#permlink{ text-decoration: none; color:#09F; background-color:#999;}
+#permlink a{ text-decoration:none; color:#d5ddcd;}
+#permlink a:hover{ text-decoration:underline;}
+#header{ border:solid 1px #781000; background:#060;}
+#header h1{ color:#d5ddcd;}
+#topnav{ border:solid 1px #5a6156; background-color:#5a6156;}
+#topnav a{ border:solid 1px #5a6156; text-decoration:none; background-color:#d5a6156; color:#5ddcd;}
+#topnav a:hover{ border:solid 1px #d5ddcd; background-color:#d5ddcd; color:#781000;}
+#left{ border:solid 1px #d5ddcd; background-color:#060;}
+#middle{ border:solid 1px #d5ddcd;}
+#right{ border:solid 1px #d5ddcd;}
+#footer{ border:solid 1px #d5ddcd;}
+.box{ background:#ffffff; border:solid 1px #cccccc;}
+.box a{ text-decoration:none; color:#781000;}
+.box a:hover{ text-decoration:underline;}
+.box ul{ margin:0; padding-left:15px; list-style:circle;}
+
+
+
+
+

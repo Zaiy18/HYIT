@@ -1,0 +1,908 @@
+[ 2015-05-25T14:39:05+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002001s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002160s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.091591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.091806s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002175s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002170s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001933s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002345s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009090s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002391s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002500s ]
+
+[ 2015-05-25T14:39:16+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.075953s ]
+INFO: [ route_check ] --END-- [ RunTime:0.076168s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001691s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001863s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.012293s ]
+SQL: SELECT * FROM `think_teacher` WHERE ( `TeaName` = 'ss' ) AND ( `Pwd` = '111111' ) LIMIT 1   [ RunTime:0.002424s ]
+NOTIC: [8] Undefined index:  teacher F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.098125s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.098526s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.002866s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.002529s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002239s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.002777s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.011045s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.003551s ]
+INFO: [ view_end ] --END-- [ RunTime:0.003782s ]
+
+[ 2015-05-25T14:39:17+08:00 ] 127.0.0.1 /Webphp/index.php/Teacher/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000880s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000988s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000549s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000630s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.026220s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.026399s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000546s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000530s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000342s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000644s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002372s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000891s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001011s ]
+
+[ 2015-05-25T14:39:22+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001502s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001671s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001009s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001158s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003948s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001395s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012976s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013112s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000574s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000539s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000404s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000713s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002569s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001003s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001141s ]
+
+[ 2015-05-25T14:39:26+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001339s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001517s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.002503s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002631s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002891s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.000757s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012022s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012147s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000590s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001575s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000428s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000685s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003659s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000884s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001013s ]
+
+[ 2015-05-25T14:39:59+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001523s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001648s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001188s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001283s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.004220s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001063s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.029505s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.029669s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001324s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001383s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001136s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001496s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005692s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001838s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001976s ]
+
+[ 2015-05-25T14:40:29+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001670s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001835s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000613s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000694s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003531s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001070s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.018591s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.018778s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000726s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000568s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000329s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000593s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002529s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000837s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000967s ]
+
+[ 2015-05-25T14:41:01+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000838s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000944s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000565s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000655s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002903s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001451s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012459s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012567s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000389s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000361s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000234s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001635s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000708s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000802s ]
+
+[ 2015-05-25T14:41:03+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002137s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002379s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001327s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001517s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002802s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.000706s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011735s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011876s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000548s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000531s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000344s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002438s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000888s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001009s ]
+
+[ 2015-05-25T14:41:03+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001273s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001438s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000981s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.015222s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001193s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016104s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016274s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000540s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000528s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000349s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002396s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000883s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000999s ]
+
+[ 2015-05-25T14:41:06+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002121s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002375s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001310s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001531s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002805s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.000619s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011708s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011878s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000538s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000416s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000355s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000638s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002278s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.005079s ]
+INFO: [ view_end ] --END-- [ RunTime:0.005254s ]
+
+[ 2015-05-25T14:41:19+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001582s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001771s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001135s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001338s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003199s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 32 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001552s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012294s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012402s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000374s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000382s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000248s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000486s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001707s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000715s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000847s ]
+
+[ 2015-05-25T14:42:04+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002017s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002166s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001164s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003004s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001403s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.020175s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020326s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001072s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001077s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001183s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001066s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004703s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001269s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001377s ]
+
+[ 2015-05-25T14:42:05+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001261s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001420s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002791s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.000733s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014853s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015023s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000431s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000409s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000273s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000461s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001811s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000656s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000739s ]
+
+[ 2015-05-25T14:42:30+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001489s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001656s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001355s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003661s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001295s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013484s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013599s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000394s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000272s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000488s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001737s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000656s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000742s ]
+
+[ 2015-05-25T14:42:56+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001314s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001489s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000845s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000983s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.004220s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.002283s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016216s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016387s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000647s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000597s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000359s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000658s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002616s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000914s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001047s ]
+
+[ 2015-05-25T14:42:58+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001506s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001681s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001366s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001574s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003760s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouID asc  [ RunTime:0.001538s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014286s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000370s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000367s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000363s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000751s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002100s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000882s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000987s ]
+
+[ 2015-05-25T14:43:46+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001664s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001845s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000956s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001090s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003293s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001356s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013066s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013173s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000375s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000358s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000239s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000458s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001635s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000850s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000996s ]
+
+[ 2015-05-25T14:44:04+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001291s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001442s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000810s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000917s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002959s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001565s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012338s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012472s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000457s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000387s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000254s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001755s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000615s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2015-05-25T14:44:06+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002039s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002211s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001619s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001772s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.004140s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001205s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021872s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.022052s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001380s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001347s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001287s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001763s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.006211s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002131s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002449s ]
+
+[ 2015-05-25T14:44:18+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001417s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001586s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000903s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001030s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003871s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001522s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011608s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011715s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000379s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000364s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001617s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000585s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000655s ]
+
+[ 2015-05-25T14:44:40+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001470s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001642s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000940s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001067s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002927s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001450s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011291s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011396s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000364s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000370s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000235s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000435s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001599s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000676s ]
+
+[ 2015-05-25T14:45:01+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000890s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000999s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000623s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003065s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001526s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011577s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011703s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000377s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000395s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000299s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000557s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001863s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000653s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000730s ]
+
+[ 2015-05-25T14:46:54+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002270s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002431s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001598s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001732s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.008155s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001763s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.017165s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017345s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001402s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.001347s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000980s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001013s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005076s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001733s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001887s ]
+
+[ 2015-05-25T14:46:56+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001483s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001655s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000927s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001057s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003001s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001655s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015342s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015497s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000386s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000356s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000247s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000433s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001639s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000592s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000667s ]
+
+[ 2015-05-25T14:47:06+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000833s ]
+INFO: [ route_check ] --END-- [ RunTime:0.000937s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000545s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000625s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002735s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001455s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.014462s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.014576s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000405s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000371s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000259s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000450s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001687s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000601s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000670s ]
+
+[ 2015-05-25T14:48:20+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001217s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001361s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000775s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000882s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002893s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001477s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.012249s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.012379s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000524s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000544s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000346s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000662s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002382s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000895s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001028s ]
+
+[ 2015-05-25T14:48:23+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001605s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001785s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001150s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003580s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001193s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011649s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011788s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000525s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000523s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000357s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000526s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002224s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000622s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000698s ]
+
+[ 2015-05-25T14:48:28+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002290s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002554s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001669s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002939s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.000520s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013618s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013752s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000425s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000399s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000266s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001794s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000700s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000791s ]
+
+[ 2015-05-25T14:54:06+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001526s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001648s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001328s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001447s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003372s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001692s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.016120s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.016242s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000913s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000984s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.001167s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001503s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.004911s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001714s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001853s ]
+
+[ 2015-05-25T14:55:04+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001325s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001496s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000835s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000955s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002908s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001430s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.011643s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011752s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000389s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000361s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000239s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000434s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001629s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000584s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000652s ]
+
+[ 2015-05-25T14:55:32+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.000911s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001023s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000643s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000726s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002780s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001318s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015034s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015213s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000620s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000373s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000462s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001938s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000618s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000691s ]
+
+[ 2015-05-25T14:56:12+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001337s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001447s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001169s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001303s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.002899s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001608s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015262s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015373s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000902s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000849s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000731s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000988s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003692s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.001115s ]
+INFO: [ view_end ] --END-- [ RunTime:0.001199s ]
+
+[ 2015-05-25T14:57:01+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.002228s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002489s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001410s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001576s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003356s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.000674s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015653s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015765s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000385s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000527s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000261s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000447s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001849s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000797s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000952s ]
+
+[ 2015-05-25T14:57:19+08:00 ] 127.0.0.1 /Webphp/index.php
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000871s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001032s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.013707s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.013869s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000518s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000506s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000300s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000605s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002204s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000776s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000863s ]
+
+[ 2015-05-25T14:57:39+08:00 ] 127.0.0.1 /Webphp/index.php/Index/checkLogin.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001914s ]
+INFO: [ route_check ] --END-- [ RunTime:0.002056s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001554s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001708s ]
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+NOTIC: 建议使用I方法替代_post
+SQL: SHOW COLUMNS FROM `think_teacher` [ RunTime:0.003889s ]
+SQL: SELECT * FROM `think_teacher` WHERE ( `TeaName` = 'cly' ) AND ( `Pwd` = '111111' ) LIMIT 1   [ RunTime:0.001237s ]
+NOTIC: [8] Undefined index:  teacher F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php 第 65 行.
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.047579s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.047775s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.001535s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.005950s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.002165s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.001905s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.013659s ]
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 95 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 96 行.
+NOTIC: [2] Cannot modify header information - headers already sent by (output started at F:\php\AppServ\www\Webphp\App\Lib\Action\IndexAction.class.php:79) F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Core\View.class.php 第 97 行.
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.002267s ]
+INFO: [ view_end ] --END-- [ RunTime:0.002482s ]
+
+[ 2015-05-25T14:57:40+08:00 ] 127.0.0.1 /Webphp/index.php/Teacher/index.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001484s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001660s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.001068s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+INFO: [ view_parse ] --START--
+INFO: ParseTemplate Behavior ::run [ RunTime:0.021458s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021633s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000372s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000369s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000257s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000630s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001882s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000680s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000778s ]
+
+[ 2015-05-25T14:57:44+08:00 ] 127.0.0.1 /Webphp/index.php/Course/coulist.html
+INFO: [ route_check ] --START--
+INFO: CheckRoute Behavior ::run [ RunTime:0.001777s ]
+INFO: [ route_check ] --END-- [ RunTime:0.001963s ]
+INFO: [ app_begin ] --START--
+INFO: ReadHtmlCache Behavior ::run [ RunTime:0.000977s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001111s ]
+SQL: SHOW COLUMNS FROM `think_course` [ RunTime:0.003055s ]
+NOTIC: [8] Undefined index:  DepartNo F:\php\AppServ\www\Webphp\App\Lib\Action\CourseAction.class.php 第 33 行.
+SQL: SELECT * FROM `think_course` ORDER BY CouNu asc  [ RunTime:0.001333s ]
+INFO: [ view_parse ] --START--
+NOTIC: [8] Undefined offset:  1 F:\php\AppServ\www\Webphp\ThinkPHP\Lib\Driver\TagLib\TagLibCx.class.php 第 524 行.
+INFO: ParseTemplate Behavior ::run [ RunTime:0.015482s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015617s ]
+INFO: [ view_filter ] --START--
+INFO: ContentReplace Behavior ::run [ RunTime:0.000440s ]
+INFO: TokenBuild Behavior ::run [ RunTime:0.000409s ]
+INFO: WriteHtmlCache Behavior ::run [ RunTime:0.000243s ]
+INFO: ShowRuntime Behavior ::run [ RunTime:0.000518s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001837s ]
+INFO: [ view_end ] --START--
+INFO: ShowPageTrace Behavior ::run [ RunTime:0.000684s ]
+INFO: [ view_end ] --END-- [ RunTime:0.000761s ]
+

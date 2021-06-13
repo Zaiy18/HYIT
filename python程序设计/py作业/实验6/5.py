@@ -1,0 +1,10 @@
+lst_student=["001","李梅",19,"002","刘祥",20,"003","张武",18]
+lst_new=["004","刘宁",20,"006","梁峰",19]
+lst_student.extend(lst_new)
+lst_student.insert(lst_student.index("006"),"005")
+lst_student.insert(lst_student.index("006"),"林歌")
+lst_student.insert(lst_student.index("006"),20)
+print(lst_student[lst_student.index("003"):lst_student.index("003")+3])
+print("所有学生的姓名：",lst_student[1::3])
+lst_age=lst_student[2::3]
+print("所有学生的平均年龄：{:.1f}".format(sum(lst_age)/len(lst_age)))

@@ -1,0 +1,227 @@
+#include <list>
+#include <iostream>
+#include <algorithm>
+using namespace std;
+const int num = 5; // Number of jobs/ processes
+int Quantum = 5; //Time slice in Round Robin
+int N_Clock = 0; //The timer used to count the finish time
+class JCB
+{
+public:
+	int ID;
+	int Lefttime;
+	int Ts;
+	int Ta;
+	int Tw;
+	float priority;
+	void SetJCB(int id, int ser_t, int arr_t)
+	{
+		ID = id;
+		Ts = ser_t;
+		Lefttime = ser_t;
+		Ta = arr_t;
+		Tw = 0;
+		priority = 0;
+	}
+	friend bool operator<(const JCB& pre, const JCB& next)
+	{
+		if (pre.Ts < next.Ts)return true;
+		return false;
+	}
+};
+class Record
+{
+public:
+	void R_Dis(JCB* jcb)
+	{
+		float sum = 0;
+		for (int i = 0; i < num; i++)
+		{
+			Tq[i] = FinishTime[i] - jcb[i].Ta;
+			TqTs[i] = (float)(Tq[i]) / jcb[i].Ts;
+			sum += TqTs[i];
+		}
+		float ave = sum / num;
+		cout << "进程标识:\t";
+		for (int i = 0; i < num; i++) cout << "P" << jcb[i].ID << "\t";
+		cout << endl;
+		cout << "到达时间:\t";
+		for (int i = 0; i < num; i++) cout << jcb[i].Ta << "\t";
+		cout << endl;
+		cout << "服务时间:\t";
+		for (int i = 0; i < num; i++) cout << jcb[i].Ts << "\t";
+		cout << endl;
+		cout << "周转时间:\t";
+		for (int i = 0; i < num; i++) cout << Tq[i] << "\t";
+		cout << endl;
+		cout << "带权周转时间:\t";
+		for (int i = 0; i < num; i++) cout << TqTs[i] << "\t";
+		cout << endl << "平均带权周转时间:" << ave << endl;
+	}
+	int FinishTime[num];
+	int Tq[num];
+	float TqTs[num];
+};
+bool NewCome(JCB* jcb, JCB& n_p)
+{
+	for (int i = 1; i < num; i++)
+		if (jcb[i].Ta == N_Clock)
+		{
+			n_p = jcb[i];
+			return true;
+		}
+	return false;
+}
+void Init_BQ(JCB* jcb)
+{
+	jcb[0].SetJCB(0, 3, 0);
+	jcb[1].SetJCB(1, 6, 2);
+	jcb[2].SetJCB(2, 4, 4);
+	jcb[3].SetJCB(3, 5, 6);
+	jcb[4].SetJCB(4, 2, 8);
+}
+void FCFS(JCB* jcb)
+{
+	cout << "\n1.*****先来先服务调度算法*****\n";
+	list<JCB>Q;
+	list<JCB>::iterator iter;
+	N_Clock = 0;
+	JCB cur_p, new_p;
+	Record r_fcfs;
+	Q.push_front(jcb[0]);
+	while (!Q.empty())
+	{
+		cur_p = Q.front();
+		while (cur_p.Lefttime != 0)
+		{
+			N_Clock++;
+			cur_p.Lefttime--;
+			if (NewCome(jcb, new_p))Q.push_back(new_p);
+		}
+		r_fcfs.FinishTime[cur_p.ID] = N_Clock;
+		Q.pop_front();
+	}
+	r_fcfs.R_Dis(jcb);
+}
+
+void SJF(JCB *jcb)
+{
+	cout << "\n2.*****短作业优先调度算法*****\n";
+	list<JCB>Q;
+	list<JCB>::iterator iter;
+	N_Clock = 0;
+	JCB cur_p, new_p;
+	Record r_SJF;
+	Q.push_front(jcb[0]);
+	while (!Q.empty())
+	{
+		cur_p = Q.front();
+		while (cur_p.Lefttime != 0)
+		{
+			N_Clock++;
+			cur_p.Lefttime--;
+			if (NewCome(jcb, new_p))
+				Q.push_back(new_p);
+		}
+		r_SJF.FinishTime[cur_p.ID] = N_Clock;
+		Q.pop_front();
+		Q.sort();
+	}
+	r_SJF.R_Dis(jcb);
+}
+
+void RR(JCB* jcb)
+{
+
+	cout << "\n3. ****时间片轮转调度算法(时间片大小=" << Quantum << ")*****\n";
+	list<JCB> Q;
+	list<JCB>::iterator iter;
+	N_Clock = 0;
+	JCB cur_p, new_p;
+	Record r_rr;
+	int temp_clock;
+	Q.push_front(jcb[0]);
+	while (!Q.empty())
+	{
+		cur_p = Q.front();
+		if (cur_p.Lefttime <= Quantum)
+		{
+			while (cur_p.Lefttime != 0)
+			{
+				N_Clock++;
+				cur_p.Lefttime--;
+				if (NewCome(jcb, new_p))Q.push_back(new_p);
+			}
+			r_rr.FinishTime[cur_p.ID] = N_Clock;
+			Q.pop_front();
+		}
+		else
+		{
+			temp_clock = N_Clock;
+			while (N_Clock + 1 <= temp_clock + Quantum)
+			{
+				N_Clock++;
+				cur_p.Lefttime--;
+				if (NewCome(jcb, new_p))Q.push_back(new_p);
+			}
+			Q.pop_front();
+			Q.push_back(cur_p);
+		}
+	}
+	r_rr.R_Dis(jcb);
+}
+
+void rp(JCB& jcb)
+{
+	jcb.Tw++;
+	jcb.priority = (jcb.Tw + jcb.Ts) / jcb.Ts;
+}
+
+bool pr(const JCB& pre, const JCB& next)
+{
+	if (pre.priority < next.priority) return true;
+	return false;
+}
+
+void HRN(JCB* jcb)
+{
+	cout << "\n4.*****最高响应比优先调度算法（非抢占方式）******\n";
+	list<JCB>Q;
+	list<JCB>::iterator iter;
+	N_Clock = 0;
+	JCB cur_p, new_p;
+	Record r_hrp;
+	Q.push_front(jcb[0]);
+	while (!Q.empty())
+	{
+		iter = max_element(Q.begin(), Q.end(), pr);
+		cur_p = (*iter);
+		Q.erase(iter);
+		while (cur_p.Lefttime != 0)
+		{
+			N_Clock++;
+			cur_p.Lefttime--;
+			if (NewCome(jcb, new_p)) Q.push_back(new_p);
+			for_each(Q.begin(), Q.end(), rp);
+		}
+		r_hrp.FinishTime[cur_p.ID] = N_Clock;
+	}
+	r_hrp.R_Dis(jcb);
+}
+void main()
+{
+	JCB jcb[num]; 
+	Init_BQ(jcb); 
+	FCFS(jcb);
+	cout << "Press any key to go on..."; 
+	getchar(); 
+	Init_BQ(jcb);
+	SJF(jcb),
+	cout << "Press any key to go on..."; getchar(); 
+	Init_BQ(jcb);
+	RR(jcb);
+	cout << "Press any key to go on..."; getchar();
+	Init_BQ(jcb);
+	HRN(jcb);
+	cout << "\n由以上数据可知，短作业优先调度算法的平均周转时间最短!'\n\n";
+}
