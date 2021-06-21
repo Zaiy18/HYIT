@@ -1,0 +1,59 @@
+#include<stdio.h>
+#include<math.h>
+#define N 500
+//高斯塞德尔
+void gauss(float *a, int n, float x[])
+{
+	int i, j, k = 1;
+	float d, dx, eps;
+	for (i = 0; i <= n - 1; i++)x[i] = 0.0;
+	while (1)
+	{
+		eps = 0;
+		for (i = 0; i <= n - 1; i++)
+		{
+			d = 0;
+			for (j = 0; j <= n - 1; j++)
+			{
+				if (j == i)continue;
+				d += *(a + i * (n + 1) + j)*x[j];
+			}
+			dx = (*(a + i * (n + 1) + n) - d) / (*(a + i * (n + 1) + i));
+			eps += fabs(dx - x[i]);
+			x[i] = dx;
+		}
+		if (eps < 1e-6)
+		{
+			printf("%d\n", k); return;
+		}
+		if (k > N)
+		{
+			printf("fasan\n");
+			return;
+		}
+		k++;
+	}
+}
+
+void main()
+{
+	int i;
+	float a[3][4] = { 10,-1,-1,3,
+	-2,10,-1,15,-1,-2,5,10};
+	float x[3];
+	float b[9][10] = { 31,-13,0,0,0,-10,0,0,0,-15,
+				   -13,35,-9,0,-11,0,0,0,0,27,
+				   0,-9,31,-10,0,0,0,0,0,-23,
+				   0,0,-10,79,-30,0,0,0,-9,0,
+				   0,0,0,-30,57,-7,0,-5,0,-20,
+				   0,0,0,0,7,47,-30,0,0,12,
+				   0,0,0,0,0,-30,41,0,0,-7,
+				   0,0,0,0,-5,0,0,27,-2,7,
+				   0,0,0,0,0,0,0,-2,29,-10 };
+	float xx[9];
+	gauss(a[0], 3, x);
+	for (i = 0; i < 3; i++)printf("x[%d]=%f\n", i + 1, x[i]);
+
+	gauss(b[0], 9, xx);
+	for (i = 0; i < 9; i++)printf("xx[%d]=%f\n", i + 1, xx[i]);
+}
